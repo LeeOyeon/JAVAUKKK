@@ -12,7 +12,7 @@
 <%
 
 int i =0;
-for(i=1;i<=9;i++){
+for(i=5;i<=9;i++){
 	
 	out.println("2 *"+i+"="+(2*i)+"<br>");
 	out.println("===========<br>");
